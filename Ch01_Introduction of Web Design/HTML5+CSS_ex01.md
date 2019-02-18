@@ -1,4 +1,4 @@
-'''
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,9 +11,9 @@
 	<p>This is my first CSS example</p>
   </body>
 </html>
-'''
+```
 
-'''
+```
 h1 {
   color: blue;
   background-color: orange;
@@ -23,4 +23,4 @@ h1 {
 p {
   color: red;
 }
-'''
+```
